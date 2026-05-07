@@ -1,2 +1,5 @@
 .omx
 scripts
+.omx/
+.omc
+.claude
